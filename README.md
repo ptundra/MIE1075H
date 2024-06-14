@@ -1,2 +1,2 @@
 # MIE1075H
-AI Applications in Robotics
+University of Toronto 2021 Fall
